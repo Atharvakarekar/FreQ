@@ -9,3 +9,4 @@ Pillow
 openai
 matplotlib
 pandas
+fpdf
